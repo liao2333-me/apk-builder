@@ -20,7 +20,7 @@ BUILD_TEMP_DIR = os.path.join(PROJECT_ROOT, "build_temp")
 RESOURCES_DIR = os.path.join(PROJECT_ROOT, "resources")
 LIB_DIR = os.path.join(RESOURCES_DIR, "lib")
 KEYSTORE_FILE = os.path.join(RESOURCES_DIR, "keystore", "tsk_mod.keystore")
-KEYSTORE_ALIAS = "jhq223"
+KEYSTORE_ALIAS = "my-key-alias"
 
 
 # --- 全局变量 ---
